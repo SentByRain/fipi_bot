@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "bot",
+  "version": "1.0.0",
+  "main": "tg_bot.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node tg_bot.js"
+  },
+  "dependencies": {
+    "@grammyjs/hydrate": "^1.4.1",
+    "cron": "^3.5.0",
+    "grammy": "^1.34.0",
+    "luxon": "^3.5.0",
+    "node-cron": "^3.0.3"
+  }
+}

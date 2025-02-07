@@ -1,0 +1,9 @@
+#folders
+/node_modules
+
+#files
+bot_token.json
+teacher_id.json
+users_info.json
+Dockerfile
+*.lock
